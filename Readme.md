@@ -12,4 +12,3 @@
 ![Imagen Bootstrap](/images/bootstrap.png)
 ![Imagen NodeJS](/images/node.png)
 ![Imagen PostgreSQL](/images/postgresql.png)
-
