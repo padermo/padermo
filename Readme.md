@@ -13,16 +13,16 @@
 <div align="center">
   <h3>📣Social Networks</h3>
   <div>
-    <a href="https://www.linkedin.com/in/fabio-andres-estevez-herrera/"><img src="./imagenesv2/linkedin.png"></img></a>
-    <a href="https://www.facebook.com/profile.php?id=100013032283536"><img src="./imagenesv2/facebook.png"></img></a>
-    <a href="https://www.instagram.com/padermoo/"><img src="./imagenesv2/instagram.png"></img></a>
+    <a href="https://www.linkedin.com/in/fabio-andres-estevez-herrera/" target="_blank"><img src="./imagenesv2/linkedin.png"></img></a>
+    <a href="https://www.facebook.com/profile.php?id=100013032283536" target="_blank"><img src="./imagenesv2/facebook.png"></img></a>
+    <a href="https://www.instagram.com/padermoo/" target="_blank"><img src="./imagenesv2/instagram.png"></img></a>
   </div>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>💼Portfolio</h3>
+  <a href="https://portfolio-fabio.vercel.app/" target="_blank">💼Portfolio</a>
 </div>
 
 <br/>
