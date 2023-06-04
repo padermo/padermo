@@ -22,25 +22,31 @@
 <br/>
 
 <div align="center">
-  <a href="https://portfolio-fabio.vercel.app/" target="_blank">💼Portfolio</a>
+<h3>Portfolio</h3>
+  <a href="https://portfolio-fabio.vercel.app/" target="_blank"><img src="./imagenesv2/suitcase.png" width='70' height='70'></img></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>I’m currently learning JavaScript, Data Structures, Sorting Algorithms, HTML, CSS, React, Redux, Bootstrap, Node JS, PostgreSQL, Express, SASS, Sequelize, Git</h2>
+  <h2>I’m currently learning JavaScript, Data Structures, Sorting Algorithms, HTML5, CSS3, React JS, Redux, Bootstrap, Node JS, PostgreSQL, Express, SASS, Sequelize, Git, Next, React Native Expo, Tailwind, Jest, MongoDB</h2>
   <br/>
   <div>
-    <img src='./imagenesv2/html.png' alt="Imagen de html"/>
-    <img src='./imagenesv2/css.png' atl="Imagen de css"/>
-    <img src='./imagenesv2/javascript.png' atl="Imagen de javascript"/>
-    <img src='./imagenesv2/react.png' atl="Imagen de react"/>
-    <img src='./imagenesv2/redux.png' atl="Imagen de redux"/>
-    <img src='./imagenesv2/bootstrap.png' atl="Imagen de bootstrap"/>
-    <img src='./imagenesv2/node.png' atl="Imagen de node"/>
-    <img src='./imagenesv2/postgresql.png' atl="Imagen de postgresql"/>
-    <img src='./imagenesv2/sass.png' atl="Imagen de sass"/>
-    <img src='./imagenesv2/sequelize.png' atl="Imagen de sequelize"/>
-    <img src='./imagenesv2/git.png' atl="Imagen de git"/>
+    <img src='./imagenesv2/html-5.svg' alt="Imagen de html" width='70' height='70'/>
+    <img src='./imagenesv2/css-3.svg' atl="Imagen de css" width='70' height='70'/>
+    <img src='./imagenesv2/javascript.svg' atl="Imagen de javascript" width='70' height='70'/>
+    <img src='./imagenesv2/react.svg' atl="Imagen de react" width='70' height='70'/>
+    <img src='./imagenesv2/nextjs-icon.svg' atl="Imagen de nextjs" width='70' height='70'/>
+    <img src='./imagenesv2/redux.svg' atl="Imagen de redux" width='70' height='70'/>
+    <img src='./imagenesv2/bootstrap.svg' atl="Imagen de bootstrap" width='70' height='70'/>
+    <img src='./imagenesv2/nodejs.svg' atl="Imagen de node" width='70' height='70'/>
+    <img src='./imagenesv2/postgresql.svg' atl="Imagen de postgresql" width='70' height='70'/>
+    <img src='./imagenesv2/sequelize.svg' atl="Imagen de sequelize" width='70' height='70'/>
+    <img src='./imagenesv2/git-icon.svg' atl="Imagen de git" width='70' height='70'/>
+    <img src='./imagenesv2/sass.svg' atl="Imagen de sass" width='70' height='70'/>
+    <img src='./imagenesv2/jest.svg' atl="Imagen de jest" width='70' height='70'/>
+    <img src='./imagenesv2/expo.svg' atl="Imagen de expo" width='140' height='70'/>
+    <img src='./imagenesv2/mongodb.svg' atl="Imagen de mongodb" width='140' height='70'/>
+    <img src='./imagenesv2/tailwindcss.svg' atl="Imagen de tailwindcss" width='140' height='70'/>
   </div>
 </div>
