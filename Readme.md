@@ -1,4 +1,4 @@
-<h1>Welcome To My GitHub</h1>
+<h1 style="color:#009EEB">Welcome To My GitHub</h1>
 
 <p>
   Hello everyone, I'm <strong>Fabio Estevez</strong>, a passionate full-stack web & mobile developer with a keen interest in design.
@@ -8,9 +8,9 @@
 <table border='0' cellspacing='0' cellpadding='0'>
   <tr>
     <td>
-      <p><a target='_blank' href='https://www.linkedin.com/in/fabio-andres-estevez-herrera/'>LinkedIn</a></p>
-      <p><a target='_blank' href='https://www.instagram.com/padermoo/'>Instagram</a></p>
-      <p><a target='_blank' href='https://portfolio-fabio.vercel.app/'>Porfolio</a></p>
+      <p style="color:#EA8101"><a target='_blank' href='https://www.linkedin.com/in/fabio-andres-estevez-herrera/'>LinkedIn</a></p>
+      <p style="color:#EA8101"><a target='_blank' href='https://www.instagram.com/padermoo/'>Instagram</a></p>
+      <p style="color:#EA8101"><a target='_blank' href='https://portfolio-fabio.vercel.app/'>Porfolio</a></p>
     </td>
     <td>
       <img src='./resources/social.svg' alt='icon' />
