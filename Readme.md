@@ -1,4 +1,6 @@
-<h1 style="color:#009EEB">Welcome To My GitHub</h1>
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+<h1>Welcome To My GitHub</h1>
 
 <p>
   Hello everyone, I'm <strong>Fabio Estevez</strong>, a passionate full-stack web & mobile developer with a keen interest in design.
