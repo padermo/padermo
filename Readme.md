@@ -5,7 +5,7 @@
 </p>
 
 <h2>Social Networks</h2>
-<table>
+<table border='0' cellspacing='0' cellpadding='0'>
   <tr>
     <td>
       <p><a target='_blank' href='https://www.linkedin.com/in/fabio-andres-estevez-herrera/'>LinkedIn</a></p>
