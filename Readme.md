@@ -12,7 +12,7 @@
     <td>
       <p style="color:#EA8101"><a target='_blank' href='https://www.linkedin.com/in/fabio-andres-estevez-herrera/'>LinkedIn</a></p>
       <p style="color:#EA8101"><a target='_blank' href='https://www.instagram.com/padermoo/'>Instagram</a></p>
-      <p style="color:#EA8101"><a target='_blank' href='https://portfolio-fabio.vercel.app/'>Porfolio</a></p>
+      <p style="color:#EA8101"><a target='_blank' href='https://fabio-estevez-developer.vercel.app/'>Porfolio</a></p>
     </td>
     <td>
       <img src='./resources/social.svg' alt='icon' />
