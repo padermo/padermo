@@ -1,53 +1,50 @@
-<link rel="stylesheet" type="text/css" href="./style.css">
+<link href='./style.css' rel='stylesheet'/>
 
-<h1>Welcome To My GitHub</h1>
-
+<img src="./resources/BannerGitHub.png" alt="Fabio Estevez Banner"/>
 <p>
-  Hello everyone, I'm <strong>Fabio Estevez</strong>, a passionate full-stack web & mobile developer with a keen interest in design.
+I am a web and mobile developer with over a year of experience in frontend development, specializing in user design. My primary stack includes technologies such as TypeScript, Next.js, Sass, Tailwind, React Native, Redux, and Context. Additionally, I have a growing interest in backend development, with knowledge in Node.js, Express, JWT, MongoDB, and PostgreSQL.
 </p>
 
-<h2>Social Networks</h2>
-<table border='0' cellspacing='0' cellpadding='0'>
-  <tr>
-    <td>
-      <p style="color:#EA8101"><a target='_blank' href='https://www.linkedin.com/in/fabio-andres-estevez-herrera/'>LinkedIn</a></p>
-      <p style="color:#EA8101"><a target='_blank' href='https://www.instagram.com/padermoo/'>Instagram</a></p>
-      <p style="color:#EA8101"><a target='_blank' href='https://fabio-estevez-developer.vercel.app/'>Porfolio</a></p>
-    </td>
-    <td>
-      <img src='./resources/social.svg' alt='icon' />
-    </td>
-  </tr>
-</table>
+<article>
+    <h2>Professional Experience</h2>
+    <h3>Frontend Developer - Freelance (2023 - Present)</h3>
+    <ol>
+        <li>Development of websites and hybrid mobile applications.</li>
+        <li>Implementation of responsive and dynamic user interfaces using Next.js and React Native.</li>
+    </ol>
+</article>
 
-<h2>Frontend</h2>
-<div>
-  <img src='./resources/expo.svg' alt='icon expo' />
-  <img src='./resources/next.svg' alt='icon next' />
-  <img src='./resources/css.svg' alt='icon css' />
-  <img src='./resources/html.svg' alt='icon html' />
-  <img src='./resources/sass.svg' alt='icon sass' />
-  <img src='./resources/tailwind.svg' alt='icon tailwind' />
-  <img src='./resources/redux.svg' alt='icon redux' />
-  <img src='./resources/javascript.svg' alt='icon javascript' />
-  <img src='./resources/typescript.svg' alt='icon typescript' />
-</div>
+<article>
+    <h2>Technical Skills</h2>
+    <ul>
+        <li><box-icon type='logo' color='currentcolor' name='javascript'></box-icon>JavaScript</li>
+        <li><box-icon type='logo' color='currentcolor' name='typescript'></box-icon>TypeScript</li>
+        <li><box-icon type='logo' color='currentcolor' name='html5'></box-icon>HTML5</li>
+        <li><box-icon type='logo' color='currentcolor' name='css3'></box-icon>CSS3</li>
+        <li><box-icon type='logo' color='currentcolor' name='tailwind-css'></box-icon>Tailwind</li>
+        <li><box-icon type='logo' color='currentcolor' name='sass'></box-icon>Sass</li>
+        <li><box-icon type='logo' color='currentcolor' name='react'></box-icon>React & Next</li>
+        <li><box-icon type='logo' color='currentcolor' name='react'></box-icon>React Native</li>
+        <li><box-icon type='logo' color='currentcolor' name='redux'></box-icon>Redux Toolkit</li>
+        <li><box-icon type='logo' color='currentcolor' name='nodejs'></box-icon>Node</li>
+        <li><box-icon type='logo' color='currentcolor' name='nodejs'></box-icon>Express</li>
+        <li><box-icon type='logo' color='currentcolor' name='postgresql'></box-icon>PostgreSQL</li>
+        <li><box-icon type='logo' color='currentcolor' name='mongodb'></box-icon>MongoDB</li>
+        <li><box-icon type='logo' color='currentcolor' name='figma'></box-icon>Figma</li>
+        <li><box-icon type='logo' color='currentcolor' name='git'></box-icon>Git</li>
+    </ul>
+</article>
 
-<h2>Backend</h2>
-<div>
-  <img src='./resources/sequalize.svg' alt='icon sequalize' />
-  <img src='./resources/mongodb.svg' alt='icon mongodb' />
-  <img src='./resources/express.svg' alt='icon express' />
-  <img src='./resources/postgresql.svg' alt='icon postgresql' />
-  <img src='./resources/node.svg' alt='icon node' />
-  <img src='./resources/javascript.svg' alt='icon javascript' />
-  <img src='./resources/typescript.svg' alt='icon typescript' />
-</div>
+<article>
+    <h2>Social Networks</h2>
+    <ul>
+        <li><a id='linkedin' href='https://www.linkedin.com/in/fabioestevezeh/'><box-icon type='logo' color='currentcolor' name='linkedin'></box-icon>LinkedIn</a></li>
+        <li><a href='https://fabio-estevez-developer.vercel.app'><box-icon type='solid' color='currentcolor' name='folder'></box-icon>Portfolio</a></li>
+    </ul>
+</article>
 
-<h2>Others</h2>
-<div>
-  <img src='./resources/figma.svg' alt='icon figma' />
-  <img src='./resources/jest.svg' alt='icon jest' />
-  <img src='./resources/git.svg' alt='icon git' />
-  <img src='./resources/testing.svg' alt='icon testing' />
-</div>
+<footer>
+    <p>© Fabio Estevez. All rights reserved.</p>
+</footer>
+
+<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
