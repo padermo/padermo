@@ -17,7 +17,7 @@ I am a web and mobile developer with over a year of experience in frontend devel
 <article>
     <h2>Technical Skills</h2>
     <ul>
-        <li style='text-align:center;'><img src='./resources/javascript.png'/>JavaScript</li>
+        <li><box-icon type='logo' color='currentcolor' name='javascript'></box-icon>JavaScript</li>
         <li><box-icon type='logo' color='currentcolor' name='typescript'></box-icon>TypeScript</li>
         <li><box-icon type='logo' color='currentcolor' name='html5'></box-icon>HTML5</li>
         <li><box-icon type='logo' color='currentcolor' name='css3'></box-icon>CSS3</li>
